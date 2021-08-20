@@ -1,0 +1,10 @@
+.cartBox {
+	position: fixed;
+	top: 0;
+	right: 0;
+	background-color: white;
+	width: 200px;
+	box-shadow: 0px 2px 8px 1px rgba(0, 0, 0, 0.45);
+	border-radius: 4px;
+	padding: 6px;
+}
